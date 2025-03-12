@@ -10,7 +10,7 @@
 * Fios para a conexão do circuito
 
 ### Circuito
-![circuito](imagens/0001-led.png)
+![circuito](imagens/led.png)
 
 ### Schematics
-![schematics](imagens/0001-led-schematics.png)
+![schematics](imagens/led_schematics.png)
