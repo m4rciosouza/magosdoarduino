@@ -7,7 +7,7 @@
 * 1x Breadboard
 * 1x LED da cor de sua preferência
 * 1x Resistor de 220 a 300 Ohms 
-* Fios para a conexão do circuito
+* Jumpers para a conexão do circuito
 
 ### Circuito
 ![circuito](imagens/led.png)
