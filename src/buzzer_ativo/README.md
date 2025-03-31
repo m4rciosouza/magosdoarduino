@@ -2,6 +2,9 @@
 
 ### Neste projeto um Buzzer Ativo é conectado na porta 8 do Arduino fazendo o emitir um som quando a porta digital for alta (5v).
 
+### Artigo do projeto
+[https://magosdoarduino.web.app/buzzer-ativo-passivo-arduino.html](https://magosdoarduino.web.app/buzzer-ativo-passivo-arduino.html)
+
 ### Componentes necessários
 * 1x Placa Arduino
 * 1x Breadboard

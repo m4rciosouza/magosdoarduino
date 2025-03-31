@@ -2,6 +2,9 @@
 
 ### Neste projeto um LED é conectado na porta 2 do Arduino, e o LED pisca a cada meio segundo.
 
+### Artigo do projeto
+[https://magosdoarduino.web.app/leds-resistores-arduino.html](https://magosdoarduino.web.app/leds-resistores-arduino.html)
+
 ### Componentes necessários
 * 1x Placa Arduino Uno
 * 1x Breadboard

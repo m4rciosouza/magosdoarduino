@@ -18,7 +18,7 @@ int estadoAmarelo = LOW;
 int estadoVermelho = LOW;
 
 unsigned long ultimaMudanca = 0;
-unsigned long espera = 5000;
+unsigned long espera = 5000; // 5 segundos
 
 void setup() {
   // define a direção correta dos pinos de GPIO
@@ -29,7 +29,7 @@ void setup() {
   pinMode(PINO_BUZZER, OUTPUT);
 
   // registra a interrupção utilizada quando o push button for pressionado
-  attachInterrupt(digitalPinToInterrupt(PINO_BTN), abrirFarol, FALLING);
+  attachInterrupt(digitalPinToInterrupt(PINO_BTN), abrirFarol, FALLING); // RISING, CHANGE, HIGH, LOW
 
   ultimaMudanca = millis();
 }

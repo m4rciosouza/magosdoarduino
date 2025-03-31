@@ -4,6 +4,9 @@
 
 ### Ao pressionar o push button, o LED presente na placa Arduino acende.
 
+### Artigo do projeto
+[https://magosdoarduino.web.app/push-buttons-arduino.html](https://magosdoarduino.web.app/push-buttons-arduino.html)
+
 ### Componentes necessários
 * 1x Placa Arduino
 * 1x Breadboard

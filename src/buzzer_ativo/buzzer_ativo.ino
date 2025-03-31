@@ -16,5 +16,5 @@ void loop() {
   digitalWrite(BUZZER_PIN, HIGH); // toca som
   delay(500); // aguarda meio segundo
   digitalWrite(BUZZER_PIN, LOW); // para o som
-  delay(500); // agurada meio segundo
+  delay(500); // aguarda meio segundo
 }

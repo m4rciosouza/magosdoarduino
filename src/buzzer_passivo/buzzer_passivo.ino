@@ -54,7 +54,7 @@ void loop() {
     valorSeno = sin(x * (3.1412 / 180));
     // gera frequência a partir do valor do seno
     frequencia = 2000 + (int(valorSeno * 1000));
-    tone(8, frequencia);
+    tone(BUZZER_PIN, frequencia);
     delay(2);
   }*/
 }

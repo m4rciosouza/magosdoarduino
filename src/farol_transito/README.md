@@ -1,6 +1,9 @@
 # Código para criar um farol de trânsito com o Arduino
 
-### Neste projetocriaremos um farol de trânsito com o Arduino.
+### Neste projeto criaremos um farol de trânsito com o Arduino.
+
+### Artigo do projeto
+[https://magosdoarduino.web.app/farol-transito-arduino.html](https://magosdoarduino.web.app/farol-transito-arduino.html)
 
 O farol contém além das luzes um botão que ao ser pressionado muda do vermelho para verde.
 
