@@ -24,8 +24,7 @@ void loop() {
 
   // usando o print serial com o sprintf
   char buffer[40];
-  sprintf(buffer, "Contador: %d, texto: %s, PI: %.4f", 
-    contador, placa, pi);
+  sprintf(buffer, "Contador: %d, texto: %s, PI: %.4f", contador, placa, pi);
   Serial.println(buffer);
 
   contador++;

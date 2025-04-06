@@ -13,9 +13,9 @@ void setup() {
 void loop() {
   // verifica se existe dados a serem lidos na porta serial
   if (Serial.available() > 0) {
-    int valor = Serial.read();
+    //int valor = Serial.read();
     
-    //int valor = Serial.parseInt();
+    int valor = Serial.parseInt();
     
     //float valor = Serial.parseFloat();
     
@@ -25,4 +25,6 @@ void loop() {
     Serial.print("Valor recebido: ");
     Serial.println(valor);
   }
+
+  delay(100);
 }
