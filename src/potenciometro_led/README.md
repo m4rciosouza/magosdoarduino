@@ -3,7 +3,7 @@
 ### Neste projeto um potenciômetro será conectado ao Arduino para controlar a luminosidade de um LED.
 
 ### Artigo do projeto
-[https://magosdoarduino.web.app/potenciometro-led-arduino.html](https://magosdoarduino.web.app/potenciometro-led-arduino.html)
+[https://magosdoarduino.web.app/potenciometro-arduino.html](https://magosdoarduino.web.app/potenciometro-arduino.html)
 
 ### Componentes necessários
 * 1x Placa Arduino

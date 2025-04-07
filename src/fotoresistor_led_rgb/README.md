@@ -3,7 +3,7 @@
 ### Neste projeto um fotoresistor será conectado ao Arduino e sempre que o valor for baixo, ou seja, estiver escuro, o LED RGB será acionado.
 
 ### Artigo do projeto
-[https://magosdoarduino.web.app/fotoresistor-led_rgb-arduino.html](https://magosdoarduino.web.app/fotoresistor-led_rgb-arduino.html)
+[https://magosdoarduino.web.app/fotoresistor-arduino.html](https://magosdoarduino.web.app/fotoresistor-arduino.html)
 
 ### Componentes necessários
 * 1x Placa Arduino

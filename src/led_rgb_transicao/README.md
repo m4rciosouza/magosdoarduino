@@ -3,7 +3,7 @@
 ### Neste projeto um LED RGB será conectado ao Arduino e as cores serão alteradas em uma transição entre as cores vermelha, verde e azul.
 
 ### Artigo do projeto
-[https://magosdoarduino.web.app/led-rgb-transicao-arduino.html](https://magosdoarduino.web.app/led-rgb-transicao-arduino.html)
+[https://magosdoarduino.web.app/led-rgb-arduino.html](https://magosdoarduino.web.app/led-rgb-arduino.html)
 
 ### Componentes necessários
 * 1x Placa Arduino
