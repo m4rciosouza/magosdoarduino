@@ -15,6 +15,3 @@
 
 ### Circuito
 ![circuito](imagens/display_sete_segmentos_cd4511.png)
-
-### Schematics
-![schematics](imagens/display_sete_segmentos_cd4511_schematics.png)
