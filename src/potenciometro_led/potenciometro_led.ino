@@ -16,7 +16,7 @@ void setup() {
 int valorPot = 0;
 void loop() {
   // faz a leitura do valor do potenciômetro
-  valorPot = analogRead(PINO_POT);
+  valorPot = analogRead(PINO_POT); //  0-1023
 
   // mapeia p valor para o intervalo de 0-255 e o utiliza para acender o led
   analogWrite(PINO_LED, map(valorPot, 0, 1023, 0, 255));

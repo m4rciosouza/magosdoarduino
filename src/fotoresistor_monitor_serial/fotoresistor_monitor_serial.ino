@@ -6,12 +6,15 @@
  * @kazaleitoficial no YouTube
  **/
 
+#define PINO_FOTORESISTOR A0
+
 void setup() {
     Serial.begin(9600);
 }
 
+int valor = 0;
 void loop() {
-  int valor = analogRead(A0);
+  valor = analogRead(PINO_FOTORESISTOR);
 
   Serial.println("Valor do fotoresistor: ");
   Serial.println(valor);

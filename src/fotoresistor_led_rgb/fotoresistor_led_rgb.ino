@@ -9,6 +9,7 @@
 #define PINO_VERMELHO 3
 #define PINO_VERDE 5
 #define PINO_AZUL 6
+#define PINO_FOTORESISTOR A0
 
 void setup() {
   pinMode(PINO_VERMELHO, OUTPUT);
@@ -20,8 +21,9 @@ void setup() {
   digitalWrite(PINO_AZUL, LOW);
 }
 
+int valor = 0;
 void loop() {
-  int valor = analogRead(A0);
+  valor = analogRead(PINO_FOTORESISTOR);
     
   if (valor > 650) {
     analogWrite(PINO_VERMELHO, 0);
