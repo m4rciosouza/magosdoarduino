@@ -122,6 +122,7 @@ void loop() {
 
   // limpa a tela
   lcd.clear();
+  // exibem os novos caracteres
   lcd.write(byte(0));
   lcd.write(byte(1));
   lcd.write(byte(2));
