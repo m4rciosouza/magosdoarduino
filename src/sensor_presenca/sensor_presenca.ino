@@ -8,7 +8,7 @@
  * @kazaleitoficial no YouTube
  **/
 
-#define PINO_SENSOR 8
+#define PINO_SENSOR 2
 
 int detectado = LOW; // define que não existe detecção ao iniciar
 int valorSensor = 0; // valor da leitura do sensor
