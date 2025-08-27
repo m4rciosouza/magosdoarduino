@@ -14,7 +14,6 @@
 #define PINO_EMISSOR_IR 12
 
 void setup() {
-   Serial.begin(9600);
   // inicializa o objeto de emissão IR
   IrSender.begin(PINO_EMISSOR_IR);
 }

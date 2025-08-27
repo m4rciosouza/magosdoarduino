@@ -30,12 +30,15 @@ void loop() {
     valor = IrReceiver.decodedIRData.decodedRawData;
     Serial.print("Comando recebido: ");
     Serial.println(valor, HEX);
+
     // imprime informações completas recebidas
     Serial.println("Todas informações recebidas:");
     IrReceiver.printIRResultShort(&Serial);
+
     // imprime comando utilizado para envio com emissor IR
     Serial.println("Comando para enviar dados com emissor IR:");
     IrReceiver.printIRSendUsage(&Serial);
+    
     // permite receber a próxima leitura
     IrReceiver.resume();
   }
