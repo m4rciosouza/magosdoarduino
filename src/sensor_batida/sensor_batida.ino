@@ -31,5 +31,5 @@ void loop() {
     digitalWrite(PINO_LED, controleLed);
   }
 
-  delay(100);
+  delay(70);
 }

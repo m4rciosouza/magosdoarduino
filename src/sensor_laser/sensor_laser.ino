@@ -31,5 +31,6 @@ void loop() {
   } else {
     digitalWrite(PINO_LED, LOW);
   }
-  
+
+  delay(100);
 }
