@@ -19,7 +19,7 @@ void loop() {
   // faz a leitura do valor analógico do sensor
   valorAnalogico = analogRead(PINO_SENSOR_ANALOGICO);
 
-  // imprime o valor analógido obtido pelo sensor
+  // imprime o valor analógido obtido pelo sensor entre (0-1023)
   Serial.print("Valor analógico: ");
   Serial.println(valorAnalogico);
 
