@@ -48,7 +48,7 @@ void setup() {
   // execute uma única vez para ajustar a data e hora e depois comente o código a seguir
   // parâmetros: segundos, minutos, horas, dia da semana, dia do mês, mês e ano
   // para o dia da semana, use (1=Domingo, 2=Segunda-feira,... , 7=Sábado)
-  rtc.set(0, 5, 9, 7, 20, 9, 25);
+  rtc.set(0, 20, 11, 7, 4, 10, 25);
 }
 
 void loop() {
