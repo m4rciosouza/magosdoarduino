@@ -2,7 +2,7 @@
  * Código do curso Magos do Arduino para utilizar módulo de cartão SD
  * com o Arduino. 
  * 
- * Código que criar um novo arquivo no cartão SD, escreve um texto nele, e depois realiza 
+ * Código que cria um novo arquivo no cartão SD, escreve um texto nele, e depois realiza 
  * sua leitura imprimindo o seu conteúdo no Monitor Serial.
  * 
  * Depende da biblioteca SD, que já vem instalada por padrão na IDE do Arduino.

@@ -1,6 +1,6 @@
 # Código do curso Magos do Arduino para utilizar módulo de cartão SD com o Arduino
 
-### Código que criar um novo arquivo no cartão SD, escreve um texto nele, e depois realiza sua leitura imprimindo o seu conteúdo no Monitor Serial.
+### Código que cria um novo arquivo no cartão SD, escreve um texto nele, e depois realiza sua leitura imprimindo o seu conteúdo no Monitor Serial.
 
 Depende da biblioteca SD, que já vem instalada por padrão na IDE do Arduino.
  
@@ -13,7 +13,7 @@ Pinos do módulo de cartão SD conectado ao Arduino UNO via SPI:
 - CS       - pino  4
 
 ### Artigo do projeto
-[https://magosdoarduino.web.app/sd-card-leitura-escrita-arduino.html](https://magosdoarduino.web.app/sd-card-leitura-escrita-arduino.html)
+[https://magosdoarduino.web.app/sd-card-info-arduino.html](https://magosdoarduino.web.app/sd-card-info-arduino.html)
 
 ### Componentes necessários
 * 1x Breadboard (opcional)
