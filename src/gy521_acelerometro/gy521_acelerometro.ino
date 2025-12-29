@@ -1,5 +1,5 @@
 /**
- * Código do curso Magos do Arduino para utilizar o acelerômetro e giroscópio GY521 
+ * Código do curso Magos do Arduino para utilizar o acelerômetro e giroscópio GY-521 
  * com o Arduino. 
  * 
  * Código que imprime no monitor serial os valores lidos do acelerômetro e giroscópio. 
