@@ -39,7 +39,7 @@ void setup() {
   // define configurações padrões para o sensor
   sensor.setAccelSensitivity(0); // 2g
   sensor.setGyroSensitivity(0); // 250 graus
-  sensor.setThrottle();
+  sensor.setThrottle(); // força delay entre leituras
 
   // define valores padrões de calibração
   sensor.axe = 0;

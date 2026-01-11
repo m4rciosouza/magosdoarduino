@@ -17,6 +17,7 @@
  * @kazaleitoficial no YouTube
  **/
 
+
 #define SSD1306_NO_SPLASH  // desabilita a splash screen
 
 #include <SPI.h>
@@ -55,7 +56,7 @@ void setup() {
   // desenha um único pixel no display
   display.clearDisplay();  // limpa o display
   display.drawPixel(10, 10, SSD1306_WHITE);
-  display.display();        // exibe o pixel no display
+  display.display(); // exibe o pixel no display
   delay(ESPERA_TRANSICAO);
 
   // desenham duas linhas no display
